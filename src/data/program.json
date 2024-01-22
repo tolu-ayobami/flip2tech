@@ -1,0 +1,207 @@
+[
+  {
+    "title": "Data Analysis",
+    "duration": ["6 Weeks", "12 Weeks"],
+    "description": "Delve Deep into the World of Data Analysis: Crunching Numbers, Unlocking Insights, and Mastering the Art of Informed Decision-Making!",
+    "price": [75000, 150000],
+    "image": "/images/program1.png",
+    "about": "This course is designed to equip participants with the essential knowledge and tools required to proficiently analyze data. Through this program, students will learn data collection, cleansing, and interpretation techniques, as well as how to apply statistical methods and data visualization to extract meaningful insights from datasets. This course is ideal for those seeking to enhance their analytical skills and leverage data to make informed decisions in various professional fields.",
+    "learn": [
+      "Techniques for gathering and cleaning data from various sources, ensuring it is accurate and ready for analysis.",
+      "How to interpret data to identify trends, patterns, and insights, making data-driven decisions.",
+      "Application of statistical techniques to analyze data, including measures of central tendency, dispersion, and hypothesis testing",
+      "Creating compelling data visualizations using tools like charts and graphs to convey findings effectively.",
+      "Proficiency in using data analysis software and tools commonly employed in the field.",
+      "Practical experience in applying data analysis skills to solve real-world problems and make informed decisions.",
+      "Harnessing data analysis skills to inform and support decision-making processes in various domains and industries."
+    ],
+    "pdf": "https://drive.google.com/file/d/1S6g6tzF-KmqxM9cw6CGw7UzK-6kPGrs9/view?usp=sharing"
+  },
+  {
+    "title": "Full Stack",
+    "duration": ["24 Weeks"],
+    "description": "Whether you aspire to become a full-stack developer, enhance your current skill set, or simply understand the intricacies of web development, our program is tailored for you.",
+    "price": [270000],
+    "image": "/images/program2.png",
+    "about": "This course is a comprehensive program aimed at helping individuals become well-rounded web developers. Participants will gain expertise in both front-end and back-end web development, mastering programming languages, frameworks, and tools crucial for building dynamic and responsive websites and web applications. This course is ideal for those looking to pursue a career in web development, equipping them with the skills needed to create functional, interactive, and visually appealing web solutions.",
+    "learn": [
+      "Creating responsive and visually appealing user interfaces using HTML, CSS, and JavaScript.",
+      "Building server-side logic and databases to ensure data management and interaction with web applications.",
+      "Mastering both front-end and back-end development, enabling the creation of end-to-end web solutions.",
+      "Proficiency in using popular web development frameworks and libraries for efficient coding and development.",
+      "Understanding and implementing database design and management, including relational and NoSQL databases.",
+      "Learning essential security practices to protect web applications and user data from potential threats and vulnerabilities."
+    ],
+    "pdf": "https://drive.google.com/file/d/15KKCaq4_AE1UXihiIAR6o5WhVkivlYjh/view?usp=sharing"
+  },
+  {
+    "title": "Graphic Design",
+    "duration": ["6 Weeks", "12 Weeks"],
+    "description": "Embark on a creative journey and bring your ideas to life with our Graphics Design Course. Unleash your artistic potential as you delve into the world of design.",
+    "price": [60000, 120000],
+    "image": "/images/graphics.jpg",
+    "about": "This Course is a creative and practical program that empowers individuals to bring their ideas to life through visual communication. Participants will explore design principles, learn graphic design software, and develop skills in creating eye-catching visuals, including logos, advertisements, and digital content. This course is perfect for those looking to channel their creativity and turn concepts into compelling, professionally designed graphics, making it an ideal choice for aspiring graphic designers and creative professionals.",
+    "learn": [
+      "Understanding fundamental design principles, such as composition, color theory, typography, and layout.",
+      "Proficiency in using industry-standard graphic design software, enabling the creation of visual content.",
+      "Developing the skills to effectively convey messages and ideas through visual elements and graphics.",
+      "Creating logos and branding materials that reflect and communicate the identity of a company or project.",
+      "Designing eye-catching and persuasive advertisements for various media, including print and digital platforms.",
+      "Crafting engaging digital content, such as social media graphics, banners, and illustrations, to enhance online presence and marketing efforts."
+    ],
+    "pdf": ""
+  },
+  {
+    "title": "UI/UX",
+    "duration": ["6 Weeks"],
+    "description": "This course is a gateway to a transformative journey where creativity meets functionality. Explore the principles and methodologies behind crafting cutting-edge products that resonate with users and redefine industries.",
+    "price": [70000],
+    "image": "/images/ui-ux.jpg",
+    "about": "The Art and Science of Product Design (UI/UX) is a dynamic course that delves into the interdisciplinary world of User Interface (UI) and User Experience (UX) design. Participants will explore the creative and analytical aspects of designing digital products, focusing on creating user-friendly interfaces and enhancing the overall user experience. This program is tailored for those interested in the fusion of art and technology, preparing them to become proficient UI/UX designers capable of crafting intuitive and aesthetically pleasing digital products.",
+    "learn": [
+      "Understanding the principles of designing products with a primary focus on the needs and preferences of the end-users.",
+      "Creating visually appealing and intuitive interfaces, considering layout, color, typography, and interactive elements.",
+      "Enhancing the overall user experience through effective navigation, usability, and user journey optimization.",
+      "Developing wireframes and prototypes to visualize and test product designs before implementation.",
+      "Conducting usability tests to gather feedback and refine product designs for improved user satisfaction.",
+      "Proficiency in using UI/UX design tools and software to transform design concepts into interactive and user-friendly digital products."
+    ],
+    "pdf": "https://drive.google.com/file/d/1iwjJnSnDAwpoJpdkPCv657K7xnoP5LLp/view?usp=sharing"
+  },
+  {
+    "title": "Coding",
+    "duration": ["6 Weeks"],
+    "description": "Learn the in-depth principles of programming, learn how to code and create softwares, websites, or applications",
+    "price": [60000],
+    "image": "/images/js.jpg",
+    "about": "This course is a fundamental and hands-on program that introduces students to the world of programming. Participants will learn the core concepts of coding, programming languages, and software development techniques. This course is perfect for beginners seeking to build a strong foundation in coding, enabling them to write, understand, and troubleshoot code for various applications and technologies. It's an essential starting point for those interested in pursuing a career in software development or simply gaining valuable coding skills.",
+    "learn": [
+      "Understanding the basic principles of programming, including variables, data types, loops, and conditionals.",
+      "Learning one or more programming languages, such as Python, JavaScript, or Java, to write and execute code.",
+      "Developing problem-solving skills and learning how to design and implement algorithms to solve various tasks and challenges.",
+      "Exploring the software development process, including code planning, debugging, and testing.",
+      "Building web applications using technologies like HTML, CSS, and JavaScript.",
+      "Using version control systems like Git to track changes and collaborate on coding projects effectively."
+    ],
+    "pdf": "https://drive.google.com/file/d/1EkFPacf2TJjpuuvVBqKOXnsteMBLLgqH/view?usp=sharing"
+  },
+  {
+    "title": "Web Design",
+    "duration": ["6 Weeks"],
+    "description": "Learn the art and process of creating the visual layout, structure, and style of websites to make them attractive and user-friendly",
+    "price": [45000],
+    "image": "/images/front.png",
+    "about": "The Web Design course is a creative and practical program that focuses on the art and science of creating visually appealing and user-friendly websites. Participants will explore design principles, learn to use web design tools and technologies, and develop the skills needed to craft captivating web experiences. This course is ideal for individuals interested in shaping the digital landscape, whether for personal projects or professional endeavors, by becoming proficient web designers capable of translating ideas into visually engaging online platforms.",
+    "learn": [
+      "Mastering the use of HTML for structuring web content and CSS for styling, including layout, colors, and typography.",
+      "Designing websites that adapt to different screen sizes and devices, providing a consistent user experience.",
+      "Creating intuitive and visually appealing user interfaces with a focus on user interaction and usability.",
+      "Proficiency in popular web design tools and software, such as Adobe XD, Sketch, or Figma.",
+      "Developing wireframes and prototypes to plan and visualize web layouts and user interactions.",
+      " Learning industry standards and best practices, including accessibility, performance optimization, and SEO, to create effective and efficient web designs."
+    ],
+    "pdf": ""
+  },
+  {
+    "title": "Coding, Web Design, UI-UX (3 in 1)",
+    "duration": ["6 Weeks"],
+    "description": "Take advantage of our 3 in 1 package to learn Coding, Web Design and UI-UX.",
+    "price": [150000],
+    "image": "/images/js.jpg",
+    "about": "This course is a comprehensive program that combines three vital aspects of the digital world into one integrated learning experience.This 3-in-1 course is perfect for individuals seeking a well-rounded skill set in the digital space, equipping them with coding, web design, and UI/UX abilities to thrive in various aspects of technology and digital product development.",
+    "learn": [
+      "Proficiency in programming languages and concepts, enabling the creation of interactive web applications and digital solutions.",
+      "Designing and developing visually engaging user interfaces with HTML, CSS, and JavaScript.",
+      "Building server-side logic and databases to ensure data management and web application functionality.",
+      "Creating user-friendly and visually appealing interfaces, considering layout, typography, and aesthetics.",
+      "Enhancing the overall user experience through effective navigation, usability, and user journey optimization.",
+      "Mastering both front-end and back-end development to create end-to-end web solutions, from concept to execution, with an emphasis on user-centric design."
+    ],
+    "pdf": ""
+  },
+  {
+    "title": "Children Coding",
+    "duration": ["12 Weeks"],
+    "description": "A perfect way for kids to learn to write instructions for computers in a simple, fun way, helping them develop problem-solving and logical thinking skills.",
+    "price": [45000],
+    "image": "/images/children-coding.jpg",
+    "about": "This course is an engaging and educational program designed specifically for kids. It introduces children to the world of programming in a fun and interactive way, teaching them the basics of coding through games, puzzles, and creative projects. This course is perfect for young learners looking to develop problem-solving skills, logical thinking, and computer literacy. It provides children with the opportunity to explore the exciting world of technology and programming while nurturing their creativity and critical thinking abilities.",
+    "learn": [
+      "Introduction to the basic concepts of coding, including sequencing, logic, and problem-solving.",
+      "Learning to code using child-friendly, visual programming languages like Scratch or Blockly.",
+      "Developing problem-solving skills and creativity through coding projects and challenges.",
+      "Understanding algorithms and recognizing patterns to create interactive programs and games.",
+      "Exploring coding concepts such as loops, conditionals, and variables in a child-friendly manner.",
+      "Building interactive and fun projects, games, and animations to apply coding skills and encourage creativity."
+    ],
+    "pdf": ""
+  },
+  {
+    "title": "Children Animation",
+    "duration": ["12 Weeks"],
+    "description": "Kids can learn the creation of moving images and characters in a visually engaging and entertaining manner",
+    "price": [45000],
+    "image": "/images/children-animation.jpg",
+    "about": "This course is a captivating and educational program tailored for young learners. It introduces children to the fascinating world of animation, where they can bring characters and stories to life through moving images and storytelling. This course is designed to nurture creativity, imagination, and storytelling skills in children, offering them a platform to express their ideas and learn the fundamentals of animation in an engaging and child-friendly way. It's a perfect opportunity for kids to explore their artistic talents and have fun while developing valuable skills.",
+    "learn": [
+      "An overview of the basic principles of animation, including keyframes, timing, and motion.",
+      "Creating characters and developing storyboards for animated projects.",
+      "Learning the technique of frame-by-frame animation to bring characters and scenes to life.",
+      "Proficiency in using child-friendly animation software and tools to create animations.",
+      "Developing storytelling skills and encouraging creativity in the context of animation projects.",
+      "Applying animation skills to create animated stories, characters, and short films, fostering a hands-on learning experience."
+    ],
+    "pdf": "https://drive.google.com/file/d/18SB8XgwzfP8Fv7oLCRpsYDszU1A4423l/view?usp=sharing"
+  },
+  {
+    "title": "2D Pro Animation",
+    "duration": ["12 Weeks"],
+    "description": "A specialized educational program designed to teach individuals advanced techniques and skills in creating 2D animations professionally",
+    "price": [140000],
+    "image": "/images/hero-login.jpg",
+    "about": "The is an advanced and specialized program for individuals aspiring to excel in the world of 2D animation. This comprehensive course equips students with the in-depth knowledge and professional skills required to create high-quality 2D animations.",
+    "learn": [
+      "Mastery of advanced 2D animation techniques, including character movement, physics, and expressions.",
+      "Creating and developing engaging characters with unique personalities and visual styles.",
+      "Crafting compelling storyboards to plan and sequence animated narratives effectively.",
+      "In-depth knowledge of frame-by-frame animation, providing detailed control over character movement and expressions.",
+      "Expertise in using professional animation software tools, such as Adobe Animate or Toon Boom Harmony.",
+      "Practical experience in developing complete animated projects, short films, or animations to showcase advanced animation skills and creativity."
+    ],
+    "pdf": "https://drive.google.com/file/d/1EOe0XmJirVXcgkvwJJO4_iqPNuQgy1RF/view?usp=sharing"
+  },
+  {
+    "title": "Digital Marketing",
+    "duration": ["6 Weeks", "12 Weeks"],
+    "description": "Learn the art of promoting and advertising products, services, or brands using digital channels and a wide range of technologies",
+    "price": [65000, 150000],
+    "image": "/images/last.png",
+    "about": "The digital marketing 1 course is a dynamic and practical program that explores the world of online advertising and promotion. This comprehensive course provides students with the knowledge and skills required to effectively market products, services, or brands in the digital landscape.",
+    "learn": [
+      "Understanding the core principles of digital marketing, including online channels, strategies, and objectives.",
+      "Learning how to optimize web content for search engines to improve visibility and organic traffic.",
+      "Strategies for creating and managing effective social media campaigns on platforms like Facebook, Instagram, and Twitter.",
+      "Developing and implementing content strategies to engage and inform the target audience.",
+      "Creating and managing email marketing campaigns for lead generation and customer engagement.",
+      "Techniques for running paid advertising campaigns on platforms like Google Ads and social media ads to reach a wider audience and drive conversions."
+    ],
+    "pdf": "https://drive.google.com/file/d/1gIVzj7eWG4RZ5uxXJq37aekV2Fg_SBq0/view?usp=sharing"
+  },
+  {
+    "title": "Cybersecurity",
+    "duration": ["6 Weeks"],
+    "description": "Learn the practice of protecting computer systems, networks, and digital information from theft, damage, or unauthorized access by implementing various measures, protocols, and technologies to ensure the security and privacy of digital assets",
+    "price": [100000],
+    "image": "/images/hero.jpg",
+    "about": "This course is a critical and specialized program focused on safeguarding digital systems and data from threats and attacks. This course equips students with the essential knowledge and skills needed to protect computer networks, systems, and sensitive information from cyber threats and breaches.",
+    "learn": [
+      "Understanding the basic concepts of cybersecurity, including threats, vulnerabilities, and risk management.",
+      "Techniques for securing computer networks, including firewalls, intrusion detection systems, and encryption.",
+      "Identifying and analyzing common cyber threats and attack vectors, such as malware, phishing, and DDoS attacks.",
+      "Developing and implementing security policies and procedures to protect digital assets and data.",
+      "Preparing for and responding to cybersecurity incidents, including recovery and mitigation strategies.",
+      "Learning ethical hacking techniques to identify and address vulnerabilities and weaknesses in a proactive and ethical manner."
+    ],
+    "pdf": "https://drive.google.com/file/d/13jQWmPj850sAoe04lwsOppKws32Ikw2B/view?usp=sharing"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Backend Engineering",
+    "image": "/images/python.png",
+    "become": "Backend Engineer",
+    "type": "In-Person Learning Program"
+  },
+  {
+    "title": "Frontend Engineering",
+    "image": "/images/front.png",
+    "become": "Frontend Engineer",
+    "type": "Online Learning Program"
+  },
+  {
+    "title": "UI-UX Design",
+    "image": "/images/last.png",
+    "become": "UI/UX Designer",
+    "type": "Online Learning Program"
+  },
+  {
+    "title": "Web Design",
+    "image": "/images/last.png",
+    "become": "Web Designer",
+    "type": "Online Learning Program"
+  },
+  {
+    "title": "Digital Marketing",
+    "image": "/images/last.png",
+    "become": "Digital Marketer",
+    "type": "Online Learning Program"
+  },
+  {
+    "title": "Data Analysis",
+    "image": "/images/last.png",
+    "become": "Data Analyst",
+    "type": "Online Learning Program"
+  },
+  {
+    "title": "Graphics Design",
+    "image": "/images/last.png",
+    "become": "Graphics Designer",
+    "type": "Online Learning Program"
+  },
+  {
+    "title": "Computer Engineering",
+    "image": "/images/last.png",
+    "become": "Computer Engineer",
+    "type": "In-Person Learning Program"
+  },
+  {
+    "title": "Coding, Web Design, UI-UX",
+    "image": "/images/last.png",
+    "become": "Full Stack Developer",
+    "type": "3 in 1 program"
+  },
+  {
+    "title": "Data Analysis, Digital Marketing",
+    "image": "/images/last.png",
+    "become": "Digital Analyst",
+    "type": "2 in 1 program"
+  }
+]

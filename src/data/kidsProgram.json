@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Children Coding",
+    "duration": ["12 Weeks"],
+    "description": "A perfect way for kids to learn to write instructions for computers in a simple, fun way, helping them develop problem-solving and logical thinking skills.",
+    "price": [45000],
+    "image": "/images/children-coding.jpg",
+    "about": "This course is an engaging and educational program designed specifically for kids. It introduces children to the world of programming in a fun and interactive way, teaching them the basics of coding through games, puzzles, and creative projects. This course is perfect for young learners looking to develop problem-solving skills, logical thinking, and computer literacy. It provides children with the opportunity to explore the exciting world of technology and programming while nurturing their creativity and critical thinking abilities.",
+    "learn": [
+      "Introduction to the basic concepts of coding, including sequencing, logic, and problem-solving.",
+      "Learning to code using child-friendly, visual programming languages like Scratch or Blockly.",
+      "Developing problem-solving skills and creativity through coding projects and challenges.",
+      "Understanding algorithms and recognizing patterns to create interactive programs and games.",
+      "Exploring coding concepts such as loops, conditionals, and variables in a child-friendly manner.",
+      "Building interactive and fun projects, games, and animations to apply coding skills and encourage creativity."
+    ],
+    "pdf": ""
+  },
+  {
+    "title": "Children Animation",
+    "duration": ["12 Weeks"],
+    "description": "Kids can learn the creation of moving images and characters in a visually engaging and entertaining manner",
+    "price": [45000],
+    "image": "/images/children-animation.jpg",
+    "about": "This course is a captivating and educational program tailored for young learners. It introduces children to the fascinating world of animation, where they can bring characters and stories to life through moving images and storytelling. This course is designed to nurture creativity, imagination, and storytelling skills in children, offering them a platform to express their ideas and learn the fundamentals of animation in an engaging and child-friendly way. It's a perfect opportunity for kids to explore their artistic talents and have fun while developing valuable skills.",
+    "learn": [
+      "An overview of the basic principles of animation, including keyframes, timing, and motion.",
+      "Creating characters and developing storyboards for animated projects.",
+      "Learning the technique of frame-by-frame animation to bring characters and scenes to life.",
+      "Proficiency in using child-friendly animation software and tools to create animations.",
+      "Developing storytelling skills and encouraging creativity in the context of animation projects.",
+      "Applying animation skills to create animated stories, characters, and short films, fostering a hands-on learning experience."
+    ],
+    "pdf": "https://drive.google.com/file/d/18SB8XgwzfP8Fv7oLCRpsYDszU1A4423l/view?usp=sharing"
+  }
+]

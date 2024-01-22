@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Shola Samson",
+    "date": "2023-07-13",
+    "course": "3-in-1 Web Development",
+    "grade": 40
+  },
+  {
+    "name": "Sandra Omotayo",
+    "date": "2023-07-13",
+    "course": "Coding",
+    "grade": 70
+  },
+  {
+    "name": "Tomilola Hakeem",
+    "date": "2023-07-13",
+    "course": "Frontend Development",
+    "grade": 20
+  },
+  {
+    "name": "Khalid Idan",
+    "date": "2023-07-13",
+    "course": "Backend Development",
+    "grade": 90
+  },
+  {
+    "name": "Adams Show",
+    "date": "2023-07-13",
+    "course": "Frontend Development",
+    "grade": 50
+  },
+  {
+    "name": "Omolara Fimihan",
+    "date": "2023-07-13",
+    "course": "3-in-1 Web Development",
+    "grade": 80
+  }
+]

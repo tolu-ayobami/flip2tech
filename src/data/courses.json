@@ -1,0 +1,47 @@
+[
+  {
+    "image": "/images/js.jpg",
+    "title": "The Complete Javascript Course: JS made Simple",
+    "instructor": "Samson Falana",
+    "rating": "4.0",
+    "rating_count": 10000,
+    "price": "# 10,000",
+    "description": "Master JavaScript programming with this comprehensive course. Learn the fundamentals, advanced concepts, and practical applications to become a proficient JavaScript developer."
+  },
+  {
+    "image": "/images/robot.jpg",
+    "title": "Robotics: Building WallE with Python",
+    "instructor": "Chibuike Daniel",
+    "rating": "2.0",
+    "rating_count": 870,
+    "price": "# 15,000",
+    "description": "Explore the fascinating field of robotics by building your own WallE robot using the Python programming language. Gain hands-on experience in hardware integration and programming."
+  },
+  {
+    "image": "/images/last.png",
+    "title": "Marketing: Making Money in 5 Easy Steps",
+    "instructor": "Usma Abdullahi",
+    "rating": "3.5",
+    "rating_count": 50,
+    "price": "# 5,399",
+    "description": "Discover the secrets of successful marketing and learn how to make money by applying effective marketing strategies. This course provides step-by-step guidance for beginners."
+  },
+  {
+    "image": "/images/last.png",
+    "title": "Marketing: Making Money in 5 Easy Steps",
+    "instructor": "Usma Abdullahi",
+    "rating": "3.5",
+    "rating_count": 50,
+    "price": "# 5,399",
+    "description": "Discover the secrets of successful marketing and learn how to make money by applying effective marketing strategies. This course provides step-by-step guidance for beginners."
+  },
+  {
+    "image": "/images/last.png",
+    "title": "Marketing: Making Money in 5 Easy Steps",
+    "instructor": "Usma Abdullahi",
+    "rating": "3.5",
+    "rating_count": 50,
+    "price": "# 5,399",
+    "description": "Discover the secrets of successful marketing and learn how to make money by applying effective marketing strategies. This course provides step-by-step guidance for beginners."
+  }
+]

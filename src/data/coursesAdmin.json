@@ -1,0 +1,18 @@
+[
+  {
+    "image": "/images/js.jpg",
+    "title": "The Complete Javascript Course: JS made Simple",
+    "date": "April 22, 2022 5:18 pm",
+    "time": "30hr 20min",
+    "students": 520,
+    "price": "# 10,000"
+  },
+  {
+    "image": "/images/robot.jpg",
+    "title": "The Complete Javascript Course: JS made Simple",
+    "date": "April 22, 2022 5:18 pm",
+    "time": "40hr 05min",
+    "students": 520,
+    "price": "Free"
+  }
+]
